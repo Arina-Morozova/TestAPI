@@ -24,7 +24,9 @@
         "pattern": "^•• \\d{4}$"
       },
       "balance": {
-        "type": "integer"
+        "type": "integer",
+        "key": "RUB",
+        "another_key": "USD"
       },
       "currency": {
         "type": "string"
